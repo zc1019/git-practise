@@ -2,4 +2,8 @@
 hello zc zczyyc
 hello zc zczyyc
 hello zc zczyyc
-wo shizhouchi 123654
+<<<<<<< HEAD
+wshizhouchi 123654
+=======
+wo shizhouchi 789654123
+>>>>>>> hot-fix
